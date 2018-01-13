@@ -1,0 +1,23 @@
+{
+  "name": "librarianElectron",
+  "title": "Librarian Electron APP",
+  "version": "1.0.0",
+  "description": "Library Assistant",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Konogan Cossec",
+  "homepage": "http://www.konogan.fr",
+  "license": "MIT",
+  "keywords": [
+    "electron",
+    "electron-db"
+  ],
+  "devDependencies": {
+    "electron": "1.7.10"
+  },
+  "dependencies": {
+    "electron-db": "^0.7.1"
+  }
+}
